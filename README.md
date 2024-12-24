@@ -30,8 +30,3 @@ This project demonstrates:
 - Expertise in exploratory data analysis and data-driven decision-making.
 - Proficiency in Python and visualization tools for impactful insights.
 - A strong foundation in applying data science to solve real-world business challenges.
-
----
-
-**Author**: Ismail Can OGUZ  
-**Role**: Data Scientist / Machine Learning Engineer  
